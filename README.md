@@ -1,4 +1,4 @@
-<h1>Hey, I'm Nicole! <br/> <a href="https:www.linkedin.com/in/nicole-bolden-">Cybersecurity Student</a>
+<h1>Hey, I'm Nicole! <br/> <a href="https://www.linkedin.com/in/nicole-bolden-">Cybersecurity Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
