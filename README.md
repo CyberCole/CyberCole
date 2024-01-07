@@ -12,11 +12,11 @@
 
 <h2>CyberSecurity Projects:</h2>
 
--[Project nuber 1](https://www.youtube.com/watch?
+-<b>[Project nuber 1]<b>(https://www.youtube.com/watch?
 
--[Project nuber 2](https://www.youtube.com/watch?
+-<b>[Project nuber 2]<b>(https://www.youtube.com/watch?
 
--[Project nuber 3](https://www.youtube.com/watch?
+-<b>[Project nuber 3]<b> (https://www.youtube.com/watch?
 
 
  
@@ -25,6 +25,7 @@
 - ISC2 Certified Cybersecurity 11/2023 (https://www.youtube.com/watch?
 - Microsoft365  Fundamentals 01/2024
 - Microsoft Azure Fundamentals 01/2024
+- CompTIA A+ 02/2024 (Projected Exam Date)
 
 <h2> 🤳 Connect with me:</h2>
 
