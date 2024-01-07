@@ -12,9 +12,19 @@
 
 <h2>CyberSecurity Projects:</h2>
 
+-[Project nuber 1](https://www.youtube.com/watch?
+
+-[Project nuber 2](https://www.youtube.com/watch?
+
+-[Project nuber 3](https://www.youtube.com/watch?
+
+
+ 
 <h2>Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?
+- ISC2 Certified Cybersecurity 11/2023 (https://www.youtube.com/watch?
+- Microsoft365  Fundamentals 01/2024
+- Microsoft Azure Fundamentals 01/2024
 
 <h2> 🤳 Connect with me:</h2>
 
